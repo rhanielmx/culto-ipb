@@ -1,0 +1,10 @@
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.105:3000
+- Environments: .env
+✓ Ready in 619ms
+
+ GET /auth/login 200 in 1356ms (next.js: 998ms, application-code: 358ms)
+[?25h
+
+C:\Users\rhani\OneDrive\�rea de Trabalho\Projetos\culto-ipb>
